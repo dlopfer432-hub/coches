@@ -1,6 +1,6 @@
 """
 Módulo vehiculo.
-
+cambio
 Define la clase base Vehiculo.
 """
 
