@@ -10,7 +10,7 @@ from vehiculo import Vehiculo
 
 class Concesionario:
     """
-    Representa un concesionario de vehículos.
+    Representa a un concesionario de vehículos.
 
     :param nombre: Nombre del concesionario.
     :type nombre: str
