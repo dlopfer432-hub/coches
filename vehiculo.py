@@ -8,7 +8,7 @@ class Vehiculo:
     """
     Clase base que representa un vehículo genérico.
 
-    :param marcas: Marca del vehículo.
+    :param marca: Marca del vehículo.
     :type marca: str
     :param modelo: Modelo del vehículo.
     :type modelo: str
