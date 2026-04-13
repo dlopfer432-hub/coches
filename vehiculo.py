@@ -10,7 +10,7 @@ class Vehiculo:
 
     :param marca: Marca del vehículo.
     :type marca: str
-    :param modelo: Modelo del vehículo.
+    :param modelos: Modelo del vehículo.
     :type modelo: str
     :param anio: Año de fabricación.
     :type anio: int
